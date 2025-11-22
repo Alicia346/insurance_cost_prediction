@@ -62,7 +62,7 @@ st.write("Enter the personal information below to estimate the annual health ins
 # === Personal Info Card ===
 st.markdown("""
 <div class="info-card">
-    <div class="info-title">👤 Personal Informations</div>
+    <div class="info-title">👤 Personal Information</div>
 </div>
 """, unsafe_allow_html=True)
 
